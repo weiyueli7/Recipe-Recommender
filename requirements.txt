@@ -6,3 +6,5 @@ textblob
 tqdm
 matplotlib
 wordcloud
+surprise
+sklearn
