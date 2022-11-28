@@ -131,4 +131,5 @@ dmypy.json
 
 # Do not include dataset and Kaggle API Token
 data/*.csv
+data/*.pkl
 .DS_Store
